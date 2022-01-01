@@ -1,0 +1,7 @@
+.idea
+out
+/leetcode/editor/cn/doc
+/leetcode/editor/cn/proxy
+
+./**/*.ini
+./**/*.iml
